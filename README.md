@@ -8,4 +8,13 @@ Epilepsy Datasets
 # Installing
 A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
+# Authors
+Muhammad Khizar Abbas - Pakistan Navy Engineering College - NUST
+
+# License
+This project is a academic project under the PNEC-NUST
+
+# Acknowledgments
+Thanks to Dr. Syed Sajjad Haider Zaidi
+Assistant Profeesor 
+
