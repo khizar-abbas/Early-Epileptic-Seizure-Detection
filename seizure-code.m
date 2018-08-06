@@ -158,5 +158,5 @@ figure()
     ylabel('Amplitude')
     axis([0 100 0 0.03]);
 
-end
+    end
 end
